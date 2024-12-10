@@ -4,7 +4,7 @@
 
 This is a simple **To-Do List Application** built using **ReactJS** and **TypeScript**. The app fetches data from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/todos) to display to-do items. Users can add new tasks locally, mark items as completed, delete them, and filter the displayed items.
 
----
+
 
 ## 🛠️ **Features**
 
@@ -15,7 +15,7 @@ This is a simple **To-Do List Application** built using **ReactJS** and **TypeSc
 - 🔍 **Filter Tasks** to show all, completed, or pending tasks.
 - 💾 **Persist Changes Using Local Storage** to ensure state remains even after a page reload.
 
----
+
 
 ## 💻 **Tech Stack**
 
@@ -24,7 +24,7 @@ This is a simple **To-Do List Application** built using **ReactJS** and **TypeSc
 - **JSONPlaceholder API** for fetching mock data  
 - Basic **CSS Styling** or CSS frameworks like **Bootstrap** (optional)
 
----
+
 
 ## 🛠️ **Installation Instructions**
 
@@ -32,7 +32,7 @@ Clone the repository and run the following commands:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/todo-list-app.git
+git clone [https://github.com/yourusername/todo-list-app.git](https://github.com/AmlrSF/JSONPlaceholder-API)
 
 # Navigate to project directory
 cd todo-list-app
